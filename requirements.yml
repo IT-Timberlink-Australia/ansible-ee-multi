@@ -1,0 +1,9 @@
+---
+collections: 
+  - name: netbox.netbox
+  - name: arubanetworks.aoscx
+  - name: vmware.vmware
+  - name: vmware.vmware_rest
+  - name: cloud.common
+  - name: ansible.netcommon
+  - name: ansible.utils

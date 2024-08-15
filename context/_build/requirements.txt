@@ -1,0 +1,6 @@
+pynetbox
+pytz
+ansible
+pycurl
+pyvmomi
+aiohttp
